@@ -44,7 +44,7 @@ class Program
         defaultBook.DisplayInfo();
 
         // Створення об'єкта з вказаною назвою
-        Book namedBook = new Book("Мистецтво війни");
+        Book namedBook = new Book("Маленький принц");
         namedBook.DisplayInfo();
 
         // Створення об'єкта з повною інформацією
